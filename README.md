@@ -1,6 +1,6 @@
 # Origin Frontend Take-Home Assignment
 
-The test was solved usging React, Redux, Typescript, Jest and Cypress
+The test was solved using React, Redux, Typescript, Jest and Cypress
 
 # Usage
 
