@@ -7,7 +7,10 @@
     "target": "es6",
     "jsx": "react",
     "allowJs": true,
-    "checkJs": false
+    "checkJs": false,
+    "typeRoots": ["./src/@types", "./node_modules/@types"],
+    "types": ["cypress", "jest"],
+    "esModuleInterop": true 
   },
-  "include": ["./src/**/*"]
+  "include": ["./src/**/*",  "cypress/**/*.ts", "./src/images/index.d.ts"]
 }
